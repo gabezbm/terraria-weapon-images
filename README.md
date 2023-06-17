@@ -1,0 +1,1 @@
+The images of the weapons in Terraria are in [assets](./assets).
